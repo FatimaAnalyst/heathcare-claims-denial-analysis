@@ -42,4 +42,4 @@ The `healthcare_claims_sql_queries.sql` file contains 10 queries covering:
 These insights can guide a healthcare organization's revenue cycle team to prioritize prior authorization workflows and target payer-specific denial prevention strategies — directly reducing lost revenue.
 
 ## Author
-Fatima Shirin — Data Analyst | Former Senior Process Executive, Medical Billing & Revenue Cycle Management
+Fatima — Data Analyst | Former Senior Process Executive, Medical Billing & Revenue Cycle Management
