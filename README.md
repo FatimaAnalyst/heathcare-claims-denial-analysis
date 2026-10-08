@@ -25,7 +25,7 @@ The Power BI dashboard (`healthcare_claims_dashboard.pbix`) includes:
 - Clustered bar chart: denial rate by payer
 - Donut chart: breakdown of denial reasons
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot]([dashboard_screenshot.png](https://github.com/FatimaAnalyst/heathcare-claims-denial-analysis/blob/main/healthcare%20dashboard.p.pbix))
 
 ## SQL Analysis
 The `healthcare_claims_sql_queries.sql` file contains 10 queries covering:
